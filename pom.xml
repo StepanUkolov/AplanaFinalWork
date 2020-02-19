@@ -30,7 +30,7 @@
                 <artifactId>allure-cucumber4-jvm</artifactId>
                 <version>${allure.version}</version>
             </dependency>
-            <dependency>  <!-->Я того рот чих-пых. Без этой шляпы создавался еще один дубликат отчета в allure&lt</!-->
+            <dependency>
                 <groupId>io.qameta.allure</groupId>
                 <artifactId>allure-testng</artifactId>
                 <version>${allure.version}</version>

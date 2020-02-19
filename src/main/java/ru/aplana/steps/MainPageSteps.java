@@ -1,6 +1,6 @@
 package ru.aplana.steps;
 
-import cucumber.api.java.ru.Когда;
+import io.cucumber.java.ru.Когда;
 import io.qameta.allure.Step;
 import ru.aplana.pages.MainPage;
 

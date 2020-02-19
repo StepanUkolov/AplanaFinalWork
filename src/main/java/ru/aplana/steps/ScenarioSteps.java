@@ -1,9 +1,9 @@
 package ru.aplana.steps;
 
 
-import cucumber.api.java.ru.Когда;
-import cucumber.api.java.ru.Тогда;
 import io.cucumber.datatable.DataTable;
+import io.cucumber.java.ru.Когда;
+import io.cucumber.java.ru.Тогда;
 
 /**
  * Сценарий 1

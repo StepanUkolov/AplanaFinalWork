@@ -1,8 +1,7 @@
 package ru.aplana.steps;
 
-
-import cucumber.api.java.ru.Когда;
-import cucumber.api.java.ru.Тогда;
+import io.cucumber.java.ru.Когда;
+import io.cucumber.java.ru.Тогда;
 import ru.aplana.pages.CartPage;
 
 public class CartPageSteps {
